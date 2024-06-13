@@ -24,6 +24,7 @@
 
 ## Project Resources
   Link to API Docs:
+  <br>
   Heroku Deployment:
 
 ## Project Learning Goals
