@@ -31,4 +31,9 @@
   - Building a project splitting frontend and backend between rails and react
   - Consuming an API
   - Learn how to store user and admin logins and profiles in rails DB
+
+# Page Templates for view designs
+
+# Far Future Project Goals
+  - Create My own API for Elden Ring with refined data for the needs of the site
   
